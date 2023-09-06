@@ -1,4 +1,4 @@
-# Gluttonous_Snake
+# Gluttonous_Snake 🐍🐍
 Use pyhton's turtle graphics library to create a snake game
 
 Ues 'wasd' keyboards to control your snake character
